@@ -1,0 +1,33 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.iml
+.idea/
+.metadata
+pubspec.lock.bak
+
+# Folder platform dibuat otomatis oleh `flutter create` (lihat PANDUAN.md)
+android/
+ios/
+linux/
+macos/
+windows/
+/web/
+
+# Rahasia — JANGAN di-commit
+CATATAN-ADMIN.md
+*.jks
+*.keystore
+key.properties
+android/local.properties
+.env
+*.env
+
+# Sistem
+.DS_Store
+Thumbs.db

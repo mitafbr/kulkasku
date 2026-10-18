@@ -1,0 +1,56 @@
+name: kulkasku
+description: "Kulkasku - pengingat sayur & buah di kulkas sebelum layu. Tugas akhir BTNG 2026 divisi Mobile."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Pertemuan 6: request ke API (GET/POST/PATCH/DELETE)
+  http: ^1.2.2
+  # Simpan sesi login & data mode lokal di HP / browser
+  shared_preferences: ^2.3.2
+  # Upload foto profil dari galeri (HP & web)
+  image_picker: ^1.1.2
+  # Notifikasi pengingat H-1 dan hari-H (Android)
+  flutter_local_notifications: ^17.2.4
+  timezone: ">=0.9.4 <0.11.0"
+  # Membuka Google Calendar (tanggal layu), link unduh APK & GitHub
+  url_launcher: ^6.3.0
+  # Masuk dengan Google di APK (membuka Google lalu kembali ke aplikasi)
+  flutter_web_auth_2: ^4.1.0
+  # Suara klik dan lagu latar (web & APK)
+  audioplayers: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/emoji/
+    - assets/data/
+    - assets/audio/
+  # Font dibundel di aplikasi (lebih cepat, tidak perlu unduh dari Google Fonts)
+  fonts:
+    - family: Nunito
+      fonts:
+        - asset: assets/fonts/Nunito-Regular.ttf
+        - asset: assets/fonts/Nunito-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Nunito-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Nunito-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/Nunito-Black.ttf
+          weight: 900
+    - family: DMSerifDisplay
+      fonts:
+        - asset: assets/fonts/DMSerifDisplay-Regular.ttf
+        - asset: assets/fonts/DMSerifDisplay-Italic.ttf
+          style: italic

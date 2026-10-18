@@ -1,0 +1,4889 @@
+[
+ {
+  "id": "bayam",
+  "label": "Bayam",
+  "en": "spinach",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 3,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#DDEFC8",
+  "tips": "Bungkus dengan tisu kering, masukkan wadah tertutup. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Tumis sawi bawang putih",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Sayur bening",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Omelet sawi",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 1
+ },
+ {
+  "id": "kangkung",
+  "label": "Kangkung",
+  "en": "water spinach",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 2,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#D8E0D0",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Tumis kangkung terasi",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Plecing kangkung",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Cah kangkung saus tiram",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 2
+ },
+ {
+  "id": "sawihijau",
+  "label": "Sawi hijau (caisim)",
+  "en": "mustard greens choy sum",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 4,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#DEEAD5",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Tumis sawi bawang putih",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Mie ayam sawi",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Omelet sawi",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 3
+ },
+ {
+  "id": "sawiputih",
+  "label": "Sawi putih",
+  "en": "napa cabbage chinese cabbage",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 10,
+  "satuan": "bonggol",
+  "tempat": "laci",
+  "tint": "#EFF2EB",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Sup sawi putih",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Tumis sawi putih telur",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Kimchi sederhana",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 4
+ },
+ {
+  "id": "pakcoy",
+  "label": "Pakcoy",
+  "en": "bok choy pak choi",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 4,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#E5EBDA",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Pakcoy saus tiram",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Sup pakcoy bakso",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Tumis pakcoy jamur",
+    "waktu": "12 mnt"
+   }
+  ],
+  "urutan": 5
+ },
+ {
+  "id": "selada",
+  "label": "Selada",
+  "en": "lettuce",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 6,
+  "satuan": "bonggol",
+  "tempat": "laci",
+  "tint": "#E7EBDA",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Salad sayur",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Isian burger & roti",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Lalapan selada",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 6
+ },
+ {
+  "id": "kol",
+  "label": "Kol (kubis)",
+  "en": "cabbage",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 21,
+  "satuan": "bonggol",
+  "tempat": "laci",
+  "tint": "#EFEEE6",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Tumis kol",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Bakwan kol",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Sayur sop",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 7
+ },
+ {
+  "id": "kubisungu",
+  "label": "Kubis ungu",
+  "en": "red cabbage purple cabbage",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 21,
+  "satuan": "bonggol",
+  "tempat": "laci",
+  "tint": "#D8D4E6",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Salad kubis ungu",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Acar kubis ungu",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Tumis kubis ungu",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 8
+ },
+ {
+  "id": "daunsingkong",
+  "label": "Daun singkong",
+  "en": "cassava leaves",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 3,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#E7EBD5",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Gulai daun singkong",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Daun singkong rebus sambal",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Urap daun singkong",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 9
+ },
+ {
+  "id": "daunpepaya",
+  "label": "Daun pepaya",
+  "en": "papaya leaves",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 3,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#D8EBE3",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Tumis daun pepaya teri",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Buntil daun pepaya",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Urap",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 10
+ },
+ {
+  "id": "daunkatuk",
+  "label": "Daun katuk",
+  "en": "katuk leaves sweet leaf",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 3,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#E1ECD6",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Sayur bening katuk",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Tumis katuk",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Sup katuk jagung",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 11
+ },
+ {
+  "id": "daunkelor",
+  "label": "Daun kelor",
+  "en": "moringa",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 3,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#E7F5DA",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Sayur bening kelor",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Bobor kelor",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Teh daun kelor",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 12
+ },
+ {
+  "id": "genjer",
+  "label": "Genjer",
+  "en": "yellow velvetleaf",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 3,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#DBE6CF",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Tumis genjer tauco",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Pecel genjer",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Lalapan genjer rebus",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 13
+ },
+ {
+  "id": "seladaair",
+  "label": "Selada air",
+  "en": "watercress",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 3,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#F0F6DB",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Salad selada air",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Tumis selada air",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Sup selada air",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 14
+ },
+ {
+  "id": "kemangi",
+  "label": "Kemangi",
+  "en": "lemon basil",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 4,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#ECF4D9",
+  "tips": "Celupkan tangkainya di gelas berisi air seperti bunga, lalu tutup longgar dengan plastik. Kemangi tidak suka terlalu dingin.",
+  "ide": [
+   {
+    "nama": "Lalapan kemangi",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Pepes ikan kemangi",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Telur dadar kemangi",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 15
+ },
+ {
+  "id": "seledri",
+  "label": "Seledri",
+  "en": "celery leaves",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 10,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#F6F7DE",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Taburan sup",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Perkedel seledri",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Bakwan sayur",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 16
+ },
+ {
+  "id": "daunbawang",
+  "label": "Daun bawang",
+  "en": "spring onion scallion",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 7,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#F4F8F2",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Telur dadar daun bawang",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Taburan bubur & sup",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Martabak telur",
+    "waktu": "25 mnt"
+   }
+  ],
+  "urutan": 17
+ },
+ {
+  "id": "kailan",
+  "label": "Kailan",
+  "en": "chinese broccoli kale gai lan",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 5,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#D5E2CF",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Kailan saus tiram",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Tumis kailan bawang putih",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Capcay",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 18
+ },
+ {
+  "id": "daunlobak",
+  "label": "Daun lobak",
+  "en": "radish greens",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 3,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#E3E8D5",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Tumis daun lobak",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Sup daun lobak",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Lalapan",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 19
+ },
+ {
+  "id": "daunmelinjo",
+  "label": "Daun melinjo",
+  "en": "melinjo leaves gnetum leaves",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 3,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#D6E8DE",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Sayur asem",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Sayur lodeh",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Tumis daun melinjo",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 20
+ },
+ {
+  "id": "pegagan",
+  "label": "Pegagan",
+  "en": "gotu kola",
+  "kat": "Sayur",
+  "grup": "Sayur daun",
+  "awet": 3,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#D6F0E3",
+  "tips": "Bungkus dengan tisu kering lalu masukkan wadah tertutup di laci sayur. Jangan dicuci sebelum disimpan supaya daun tidak cepat busuk.",
+  "ide": [
+   {
+    "nama": "Lalapan pegagan",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Jus pegagan",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Urap pegagan",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 21
+ },
+ {
+  "id": "tomat",
+  "label": "Tomat",
+  "en": "tomato",
+  "kat": "Sayur",
+  "grup": "Sayur buah",
+  "awet": 7,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#FBE1DC",
+  "tips": "Tomat matang simpan di rak kulkas. Keluarkan 30 menit sebelum dimasak supaya rasanya keluar.",
+  "ide": [
+   {
+    "nama": "Sambal tomat",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Sup tomat",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Telur orak-arik tomat",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 22
+ },
+ {
+  "id": "terong",
+  "label": "Terong",
+  "en": "eggplant aubergine",
+  "kat": "Sayur",
+  "grup": "Sayur buah",
+  "awet": 6,
+  "satuan": "buah",
+  "tempat": "laci",
+  "tint": "#EDE1F2",
+  "tips": "Terong tidak suka terlalu dingin. Taruh di bagian kulkas yang paling hangat.",
+  "ide": [
+   {
+    "nama": "Terong balado",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Terong goreng tepung",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Sayur lodeh",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 23
+ },
+ {
+  "id": "timun",
+  "label": "Timun",
+  "en": "cucumber",
+  "kat": "Sayur",
+  "grup": "Sayur buah",
+  "awet": 7,
+  "satuan": "buah",
+  "tempat": "laci",
+  "tint": "#DDEFC8",
+  "tips": "Bungkus dengan tisu lalu plastik. Jauhkan dari pisang dan tomat.",
+  "ide": [
+   {
+    "nama": "Acar timun",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Lalapan",
+    "waktu": "2 mnt"
+   },
+   {
+    "nama": "Infused water timun",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 24
+ },
+ {
+  "id": "labusiam",
+  "label": "Labu siam",
+  "en": "chayote",
+  "kat": "Sayur",
+  "grup": "Sayur buah",
+  "awet": 14,
+  "satuan": "buah",
+  "tempat": "laci",
+  "tint": "#E9F4DB",
+  "tips": "Simpan di laci sayur dalam kantong berlubang supaya tidak lembap. Pisahkan dari buah yang cepat matang seperti pisang dan apel.",
+  "ide": [
+   {
+    "nama": "Sayur lodeh labu siam",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Tumis labu siam",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Sayur bening",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 25
+ },
+ {
+  "id": "labukuning",
+  "label": "Labu kuning",
+  "en": "pumpkin",
+  "kat": "Sayur",
+  "grup": "Sayur buah",
+  "awet": 14,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#F9EAD1",
+  "tips": "Simpan di laci sayur dalam kantong berlubang supaya tidak lembap. Pisahkan dari buah yang cepat matang seperti pisang dan apel.",
+  "ide": [
+   {
+    "nama": "Kolak labu",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Sup krim labu",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Bubur labu",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 26
+ },
+ {
+  "id": "zucchini",
+  "label": "Zucchini",
+  "en": "zucchini courgette",
+  "kat": "Sayur",
+  "grup": "Sayur buah",
+  "awet": 7,
+  "satuan": "buah",
+  "tempat": "laci",
+  "tint": "#DCE3D7",
+  "tips": "Simpan di laci sayur dalam kantong berlubang supaya tidak lembap. Pisahkan dari buah yang cepat matang seperti pisang dan apel.",
+  "ide": [
+   {
+    "nama": "Zucchini panggang",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Tumis zucchini",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Fritter zucchini",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 27
+ },
+ {
+  "id": "pare",
+  "label": "Pare",
+  "en": "bitter gourd bitter melon",
+  "kat": "Sayur",
+  "grup": "Sayur buah",
+  "awet": 5,
+  "satuan": "buah",
+  "tempat": "laci",
+  "tint": "#DDEDDB",
+  "tips": "Simpan di laci sayur dalam kantong berlubang supaya tidak lembap. Pisahkan dari buah yang cepat matang seperti pisang dan apel.",
+  "ide": [
+   {
+    "nama": "Tumis pare telur",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Pare isi",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Sambal goreng pare",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 28
+ },
+ {
+  "id": "oyong",
+  "label": "Oyong (gambas)",
+  "en": "luffa sponge gourd",
+  "kat": "Sayur",
+  "grup": "Sayur buah",
+  "awet": 5,
+  "satuan": "buah",
+  "tempat": "laci",
+  "tint": "#E3ECE1",
+  "tips": "Simpan di laci sayur dalam kantong berlubang supaya tidak lembap. Pisahkan dari buah yang cepat matang seperti pisang dan apel.",
+  "ide": [
+   {
+    "nama": "Sayur bening oyong",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Tumis oyong udang",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Sup oyong soun",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 29
+ },
+ {
+  "id": "paprika",
+  "label": "Paprika",
+  "en": "bell pepper capsicum",
+  "kat": "Sayur",
+  "grup": "Sayur buah",
+  "awet": 10,
+  "satuan": "buah",
+  "tempat": "laci",
+  "tint": "#DDEFC8",
+  "tips": "Simpan utuh dan kering di laci sayur. Setelah dipotong, habiskan dalam 3 hari.",
+  "ide": [
+   {
+    "nama": "Tumis paprika",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Nasi goreng paprika",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Salad paprika",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 30
+ },
+ {
+  "id": "cabai",
+  "label": "Cabai merah",
+  "en": "red chili",
+  "kat": "Sayur",
+  "grup": "Sayur buah",
+  "awet": 10,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#FBE1DC",
+  "tips": "Buang tangkai yang busuk, simpan di wadah beralas tisu. Bisa juga dibekukan.",
+  "ide": [
+   {
+    "nama": "Sambal bawang",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Cabai bubuk kering",
+    "waktu": "2 hari"
+   },
+   {
+    "nama": "Bekukan untuk stok",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 31
+ },
+ {
+  "id": "cabairawit",
+  "label": "Cabai rawit",
+  "en": "birds eye chili",
+  "kat": "Sayur",
+  "grup": "Sayur buah",
+  "awet": 10,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#EFD6D5",
+  "tips": "Simpan di laci sayur dalam kantong berlubang supaya tidak lembap. Pisahkan dari buah yang cepat matang seperti pisang dan apel.",
+  "ide": [
+   {
+    "nama": "Sambal korek",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Sambal matah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Tumis cabai rawit",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 32
+ },
+ {
+  "id": "cabaihijau",
+  "label": "Cabai hijau",
+  "en": "green chili",
+  "kat": "Sayur",
+  "grup": "Sayur buah",
+  "awet": 10,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#E6F3CF",
+  "tips": "Simpan di laci sayur dalam kantong berlubang supaya tidak lembap. Pisahkan dari buah yang cepat matang seperti pisang dan apel.",
+  "ide": [
+   {
+    "nama": "Sambal ijo",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Tumis cabai hijau teri",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Balado ijo",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 33
+ },
+ {
+  "id": "okra",
+  "label": "Okra",
+  "en": "okra lady finger",
+  "kat": "Sayur",
+  "grup": "Sayur buah",
+  "awet": 3,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#E8F4D8",
+  "tips": "Simpan di laci sayur dalam kantong berlubang supaya tidak lembap. Pisahkan dari buah yang cepat matang seperti pisang dan apel.",
+  "ide": [
+   {
+    "nama": "Okra goreng tepung",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Tumis okra",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Gulai okra",
+    "waktu": "25 mnt"
+   }
+  ],
+  "urutan": 34
+ },
+ {
+  "id": "jagung",
+  "label": "Jagung",
+  "en": "corn",
+  "kat": "Sayur",
+  "grup": "Sayur buah",
+  "awet": 4,
+  "satuan": "buah",
+  "tempat": "laci",
+  "tint": "#FFF1C9",
+  "tips": "Biarkan kulitnya menempel saat disimpan supaya bijinya tidak cepat kering.",
+  "ide": [
+   {
+    "nama": "Perkedel jagung",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Sup jagung",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Jagung rebus mentega",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 35
+ },
+ {
+  "id": "jagungmanis",
+  "label": "Jagung manis",
+  "en": "sweet corn",
+  "kat": "Sayur",
+  "grup": "Sayur buah",
+  "awet": 3,
+  "satuan": "buah",
+  "tempat": "laci",
+  "tint": "#E5ECCC",
+  "tips": "Simpan di laci sayur dalam kantong berlubang supaya tidak lembap. Pisahkan dari buah yang cepat matang seperti pisang dan apel.",
+  "ide": [
+   {
+    "nama": "Jagung rebus",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Jagung susu keju",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Sup krim jagung",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 36
+ },
+ {
+  "id": "babycorn",
+  "label": "Baby corn (jagung muda)",
+  "en": "baby corn",
+  "kat": "Sayur",
+  "grup": "Sayur buah",
+  "awet": 5,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#EEF1E2",
+  "tips": "Simpan di laci sayur dalam kantong berlubang supaya tidak lembap. Pisahkan dari buah yang cepat matang seperti pisang dan apel.",
+  "ide": [
+   {
+    "nama": "Capcay",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Tumis baby corn",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Baby corn goreng",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 37
+ },
+ {
+  "id": "labuair",
+  "label": "Labu air",
+  "en": "bottle gourd calabash",
+  "kat": "Sayur",
+  "grup": "Sayur buah",
+  "awet": 7,
+  "satuan": "buah",
+  "tempat": "laci",
+  "tint": "#E9F5E2",
+  "tips": "Simpan di laci sayur dalam kantong berlubang supaya tidak lembap. Pisahkan dari buah yang cepat matang seperti pisang dan apel.",
+  "ide": [
+   {
+    "nama": "Sayur bening labu air",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Tumis labu air",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Sayur santan labu",
+    "waktu": "25 mnt"
+   }
+  ],
+  "urutan": 38
+ },
+ {
+  "id": "buncis",
+  "label": "Buncis",
+  "en": "green beans",
+  "kat": "Sayur",
+  "grup": "Polong & biji",
+  "awet": 5,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#DDEFC8",
+  "tips": "Simpan dalam wadah tertutup tanpa dicuci. Paling manis kalau cepat dimasak.",
+  "ide": [
+   {
+    "nama": "Tumis kacang polong",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Sup kacang polong",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Nasi goreng sayur",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 39
+ },
+ {
+  "id": "kacangpanjang",
+  "label": "Kacang panjang",
+  "en": "long beans yardlong",
+  "kat": "Sayur",
+  "grup": "Polong & biji",
+  "awet": 5,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#D5E2D2",
+  "tips": "Simpan polong segar di wadah tertutup di laci sayur, jangan dicuci dulu. Kacang kering simpan di toples kedap udara.",
+  "ide": [
+   {
+    "nama": "Tumis kacang panjang",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Urap",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Sayur asem",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 40
+ },
+ {
+  "id": "kapri",
+  "label": "Kacang kapri",
+  "en": "snow peas",
+  "kat": "Sayur",
+  "grup": "Polong & biji",
+  "awet": 5,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#DDE8D8",
+  "tips": "Simpan polong segar di wadah tertutup di laci sayur, jangan dicuci dulu. Kacang kering simpan di toples kedap udara.",
+  "ide": [
+   {
+    "nama": "Capcay",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Tumis kapri udang",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Salad",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 41
+ },
+ {
+  "id": "kacangpolong",
+  "label": "Kacang polong",
+  "en": "green peas",
+  "kat": "Sayur",
+  "grup": "Polong & biji",
+  "awet": 4,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#DAE7D4",
+  "tips": "Simpan polong segar di wadah tertutup di laci sayur, jangan dicuci dulu. Kacang kering simpan di toples kedap udara.",
+  "ide": [
+   {
+    "nama": "Nasi goreng kacang polong",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Sup kacang polong",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Perkedel",
+    "waktu": "25 mnt"
+   }
+  ],
+  "urutan": 42
+ },
+ {
+  "id": "edamame",
+  "label": "Edamame",
+  "en": "edamame",
+  "kat": "Sayur",
+  "grup": "Polong & biji",
+  "awet": 4,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#DAE5D0",
+  "tips": "Simpan polong segar di wadah tertutup di laci sayur, jangan dicuci dulu. Kacang kering simpan di toples kedap udara.",
+  "ide": [
+   {
+    "nama": "Edamame rebus garam",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Edamame tumis bawang putih",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Salad",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 43
+ },
+ {
+  "id": "petai",
+  "label": "Petai",
+  "en": "stink bean",
+  "kat": "Sayur",
+  "grup": "Polong & biji",
+  "awet": 7,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#D3DFD2",
+  "tips": "Simpan polong segar di wadah tertutup di laci sayur, jangan dicuci dulu. Kacang kering simpan di toples kedap udara.",
+  "ide": [
+   {
+    "nama": "Sambal goreng petai",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Nasi goreng petai",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Petai bakar",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 44
+ },
+ {
+  "id": "jengkol",
+  "label": "Jengkol",
+  "en": "dogfruit jering",
+  "kat": "Sayur",
+  "grup": "Polong & biji",
+  "awet": 7,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#DFD5D7",
+  "tips": "Simpan polong segar di wadah tertutup di laci sayur, jangan dicuci dulu. Kacang kering simpan di toples kedap udara.",
+  "ide": [
+   {
+    "nama": "Semur jengkol",
+    "waktu": "1 jam"
+   },
+   {
+    "nama": "Rendang jengkol",
+    "waktu": "1 jam"
+   },
+   {
+    "nama": "Jengkol balado",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 45
+ },
+ {
+  "id": "kecipir",
+  "label": "Kecipir",
+  "en": "winged bean",
+  "kat": "Sayur",
+  "grup": "Polong & biji",
+  "awet": 4,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#DFE8D5",
+  "tips": "Simpan polong segar di wadah tertutup di laci sayur, jangan dicuci dulu. Kacang kering simpan di toples kedap udara.",
+  "ide": [
+   {
+    "nama": "Tumis kecipir",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Urap kecipir",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Pecel",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 46
+ },
+ {
+  "id": "kacangmerah",
+  "label": "Kacang merah",
+  "en": "kidney beans red beans",
+  "kat": "Sayur",
+  "grup": "Polong & biji",
+  "awet": 5,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#E7D7D8",
+  "tips": "Simpan polong segar di wadah tertutup di laci sayur, jangan dicuci dulu. Kacang kering simpan di toples kedap udara.",
+  "ide": [
+   {
+    "nama": "Sup kacang merah",
+    "waktu": "45 mnt"
+   },
+   {
+    "nama": "Es kacang merah",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Sayur asem",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 47
+ },
+ {
+  "id": "kacangtanah",
+  "label": "Kacang tanah",
+  "en": "peanut groundnut",
+  "kat": "Sayur",
+  "grup": "Polong & biji",
+  "awet": 5,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#F3E6E0",
+  "tips": "Simpan polong segar di wadah tertutup di laci sayur, jangan dicuci dulu. Kacang kering simpan di toples kedap udara.",
+  "ide": [
+   {
+    "nama": "Kacang rebus",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Sambal kacang",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Kacang bawang",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 48
+ },
+ {
+  "id": "kacanghijau",
+  "label": "Kacang hijau",
+  "en": "mung bean",
+  "kat": "Sayur",
+  "grup": "Polong & biji",
+  "awet": 60,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#D9E1D4",
+  "tips": "Simpan polong segar di wadah tertutup di laci sayur, jangan dicuci dulu. Kacang kering simpan di toples kedap udara.",
+  "ide": [
+   {
+    "nama": "Bubur kacang hijau",
+    "waktu": "45 mnt"
+   },
+   {
+    "nama": "Onde-onde",
+    "waktu": "1 jam"
+   },
+   {
+    "nama": "Kecambah sendiri",
+    "waktu": "2 hari"
+   }
+  ],
+  "urutan": 49
+ },
+ {
+  "id": "kedelai",
+  "label": "Kedelai",
+  "en": "soybean",
+  "kat": "Sayur",
+  "grup": "Polong & biji",
+  "awet": 60,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#ECE9E2",
+  "tips": "Simpan polong segar di wadah tertutup di laci sayur, jangan dicuci dulu. Kacang kering simpan di toples kedap udara.",
+  "ide": [
+   {
+    "nama": "Susu kedelai",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Tempe rumahan",
+    "waktu": "2 hari"
+   },
+   {
+    "nama": "Kedelai rebus",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 50
+ },
+ {
+  "id": "melinjo",
+  "label": "Melinjo",
+  "en": "gnetum",
+  "kat": "Sayur",
+  "grup": "Polong & biji",
+  "awet": 7,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#EED7D0",
+  "tips": "Simpan polong segar di wadah tertutup di laci sayur, jangan dicuci dulu. Kacang kering simpan di toples kedap udara.",
+  "ide": [
+   {
+    "nama": "Sayur asem",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Emping",
+    "waktu": "1 jam"
+   },
+   {
+    "nama": "Sayur lodeh",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 51
+ },
+ {
+  "id": "wortel",
+  "label": "Wortel",
+  "en": "carrot",
+  "kat": "Sayur",
+  "grup": "Umbi & akar",
+  "awet": 14,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#FFE6CF",
+  "tips": "Potong daunnya, simpan di laci sayur dalam plastik berlubang. Bisa awet sampai dua minggu.",
+  "ide": [
+   {
+    "nama": "Sup wortel kentang",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Tumis wortel buncis",
+    "waktu": "12 mnt"
+   },
+   {
+    "nama": "Perkedel wortel",
+    "waktu": "25 mnt"
+   }
+  ],
+  "urutan": 52
+ },
+ {
+  "id": "kentang",
+  "label": "Kentang",
+  "en": "potato",
+  "kat": "Sayur",
+  "grup": "Umbi & akar",
+  "awet": 20,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#F1E4D3",
+  "tips": "Kentang lebih awet di tempat sejuk & gelap di luar kulkas. Kalau masuk kulkas, simpan di kantong kertas dan jauhkan dari bawang.",
+  "ide": [
+   {
+    "nama": "Kentang balado",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Perkedel kentang",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Kentang goreng",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 53
+ },
+ {
+  "id": "ubijalar",
+  "label": "Ubi jalar",
+  "en": "sweet potato",
+  "kat": "Sayur",
+  "grup": "Umbi & akar",
+  "awet": 14,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#FCDFD9",
+  "tips": "Umbi lebih awet di tempat sejuk, gelap, dan kering. Di kulkas, simpan di laci sayur dalam kantong kertas dan jauhkan dari bawang.",
+  "ide": [
+   {
+    "nama": "Ubi goreng",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Kolak ubi",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Ubi panggang",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 54
+ },
+ {
+  "id": "ubiungu",
+  "label": "Ubi ungu",
+  "en": "purple sweet potato",
+  "kat": "Sayur",
+  "grup": "Umbi & akar",
+  "awet": 14,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#E8DAF0",
+  "tips": "Umbi lebih awet di tempat sejuk, gelap, dan kering. Di kulkas, simpan di laci sayur dalam kantong kertas dan jauhkan dari bawang.",
+  "ide": [
+   {
+    "nama": "Bolu kukus ubi ungu",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Ubi ungu rebus",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Kolak ubi ungu",
+    "waktu": "25 mnt"
+   }
+  ],
+  "urutan": 55
+ },
+ {
+  "id": "singkong",
+  "label": "Singkong",
+  "en": "cassava",
+  "kat": "Sayur",
+  "grup": "Umbi & akar",
+  "awet": 3,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#EEE6E3",
+  "tips": "Singkong cepat berubah warna. Kupas, potong, cuci, lalu simpan terendam air di wadah tertutup, atau bekukan di freezer.",
+  "ide": [
+   {
+    "nama": "Singkong goreng",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Getuk",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Tape singkong",
+    "waktu": "2 hari"
+   }
+  ],
+  "urutan": 56
+ },
+ {
+  "id": "talas",
+  "label": "Talas",
+  "en": "taro",
+  "kat": "Sayur",
+  "grup": "Umbi & akar",
+  "awet": 7,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#F2E9E9",
+  "tips": "Umbi lebih awet di tempat sejuk, gelap, dan kering. Di kulkas, simpan di laci sayur dalam kantong kertas dan jauhkan dari bawang.",
+  "ide": [
+   {
+    "nama": "Talas goreng",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Kolak talas",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Keripik talas",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 57
+ },
+ {
+  "id": "bit",
+  "label": "Bit",
+  "en": "beetroot beet",
+  "kat": "Sayur",
+  "grup": "Umbi & akar",
+  "awet": 14,
+  "satuan": "buah",
+  "tempat": "laci",
+  "tint": "#E8D3DE",
+  "tips": "Umbi lebih awet di tempat sejuk, gelap, dan kering. Di kulkas, simpan di laci sayur dalam kantong kertas dan jauhkan dari bawang.",
+  "ide": [
+   {
+    "nama": "Jus bit",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Salad bit",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Sup bit",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 58
+ },
+ {
+  "id": "lobak",
+  "label": "Lobak",
+  "en": "daikon radish",
+  "kat": "Sayur",
+  "grup": "Umbi & akar",
+  "awet": 10,
+  "satuan": "buah",
+  "tempat": "laci",
+  "tint": "#F9F9F0",
+  "tips": "Umbi lebih awet di tempat sejuk, gelap, dan kering. Di kulkas, simpan di laci sayur dalam kantong kertas dan jauhkan dari bawang.",
+  "ide": [
+   {
+    "nama": "Sup lobak",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Acar lobak",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Asinan lobak",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 59
+ },
+ {
+  "id": "bengkuang",
+  "label": "Bengkuang",
+  "en": "jicama yam bean",
+  "kat": "Sayur",
+  "grup": "Umbi & akar",
+  "awet": 14,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#FAF4F1",
+  "tips": "Umbi lebih awet di tempat sejuk, gelap, dan kering. Di kulkas, simpan di laci sayur dalam kantong kertas dan jauhkan dari bawang.",
+  "ide": [
+   {
+    "nama": "Rujak",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Asinan",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Salad bengkuang",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 60
+ },
+ {
+  "id": "garut",
+  "label": "Garut",
+  "en": "arrowroot",
+  "kat": "Sayur",
+  "grup": "Umbi & akar",
+  "awet": 14,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#FAF6F1",
+  "tips": "Umbi lebih awet di tempat sejuk, gelap, dan kering. Di kulkas, simpan di laci sayur dalam kantong kertas dan jauhkan dari bawang.",
+  "ide": [
+   {
+    "nama": "Garut rebus",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Kue garut",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Bubur garut",
+    "waktu": "25 mnt"
+   }
+  ],
+  "urutan": 61
+ },
+ {
+  "id": "porang",
+  "label": "Porang",
+  "en": "konjac",
+  "kat": "Sayur",
+  "grup": "Umbi & akar",
+  "awet": 14,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#EDE6E5",
+  "tips": "Umbi lebih awet di tempat sejuk, gelap, dan kering. Di kulkas, simpan di laci sayur dalam kantong kertas dan jauhkan dari bawang.",
+  "ide": [
+   {
+    "nama": "Shirataki rumahan",
+    "waktu": "1 jam"
+   },
+   {
+    "nama": "Konyaku jelly",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Porang kukus",
+    "waktu": "25 mnt"
+   }
+  ],
+  "urutan": 62
+ },
+ {
+  "id": "gembili",
+  "label": "Gembili",
+  "en": "lesser yam",
+  "kat": "Sayur",
+  "grup": "Umbi & akar",
+  "awet": 14,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#E8E2E0",
+  "tips": "Umbi lebih awet di tempat sejuk, gelap, dan kering. Di kulkas, simpan di laci sayur dalam kantong kertas dan jauhkan dari bawang.",
+  "ide": [
+   {
+    "nama": "Gembili kukus",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Gembili goreng",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Kolak gembili",
+    "waktu": "25 mnt"
+   }
+  ],
+  "urutan": 63
+ },
+ {
+  "id": "kimpul",
+  "label": "Kimpul",
+  "en": "cocoyam",
+  "kat": "Sayur",
+  "grup": "Umbi & akar",
+  "awet": 7,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#EDE4E5",
+  "tips": "Umbi lebih awet di tempat sejuk, gelap, dan kering. Di kulkas, simpan di laci sayur dalam kantong kertas dan jauhkan dari bawang.",
+  "ide": [
+   {
+    "nama": "Kimpul kukus",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Keripik kimpul",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Kolak kimpul",
+    "waktu": "25 mnt"
+   }
+  ],
+  "urutan": 64
+ },
+ {
+  "id": "brokoli",
+  "label": "Brokoli",
+  "en": "broccoli",
+  "kat": "Sayur",
+  "grup": "Sayur bunga",
+  "awet": 5,
+  "satuan": "bonggol",
+  "tempat": "laci",
+  "tint": "#DDEFC8",
+  "tips": "Simpan kering dalam plastik longgar. Kalau mulai menguning, segera dimasak.",
+  "ide": [
+   {
+    "nama": "Tumis brokoli bawang",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Cah brokoli jamur",
+    "waktu": "12 mnt"
+   },
+   {
+    "nama": "Brokoli kukus",
+    "waktu": "8 mnt"
+   }
+  ],
+  "urutan": 65
+ },
+ {
+  "id": "kembangkol",
+  "label": "Kembang kol",
+  "en": "cauliflower",
+  "kat": "Sayur",
+  "grup": "Sayur bunga",
+  "awet": 7,
+  "satuan": "bonggol",
+  "tempat": "laci",
+  "tint": "#F1F5F4",
+  "tips": "Bungkus longgar dengan tisu atau kantong berlubang lalu simpan di laci sayur. Sayur bunga cepat layu, olah dalam beberapa hari.",
+  "ide": [
+   {
+    "nama": "Capcay",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Kembang kol goreng tepung",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Sup kembang kol",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 66
+ },
+ {
+  "id": "bungapepaya",
+  "label": "Bunga pepaya",
+  "en": "papaya flower",
+  "kat": "Sayur",
+  "grup": "Sayur bunga",
+  "awet": 3,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#F9F7F7",
+  "tips": "Bungkus longgar dengan tisu atau kantong berlubang lalu simpan di laci sayur. Sayur bunga cepat layu, olah dalam beberapa hari.",
+  "ide": [
+   {
+    "nama": "Tumis bunga pepaya",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Urap",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Lalapan",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 67
+ },
+ {
+  "id": "jantungpisang",
+  "label": "Jantung pisang",
+  "en": "banana blossom banana heart",
+  "kat": "Sayur",
+  "grup": "Sayur bunga",
+  "awet": 4,
+  "satuan": "buah",
+  "tempat": "laci",
+  "tint": "#EADBE6",
+  "tips": "Bungkus longgar dengan tisu atau kantong berlubang lalu simpan di laci sayur. Sayur bunga cepat layu, olah dalam beberapa hari.",
+  "ide": [
+   {
+    "nama": "Sayur jantung pisang santan",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Pepes jantung pisang",
+    "waktu": "45 mnt"
+   },
+   {
+    "nama": "Tumis",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 68
+ },
+ {
+  "id": "bungaturi",
+  "label": "Bunga turi",
+  "en": "turi flower agati",
+  "kat": "Sayur",
+  "grup": "Sayur bunga",
+  "awet": 2,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#FBFBFB",
+  "tips": "Bungkus longgar dengan tisu atau kantong berlubang lalu simpan di laci sayur. Sayur bunga cepat layu, olah dalam beberapa hari.",
+  "ide": [
+   {
+    "nama": "Pecel bunga turi",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Tumis bunga turi",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Urap",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 69
+ },
+ {
+  "id": "kecombrang",
+  "label": "Kecombrang",
+  "en": "torch ginger flower",
+  "kat": "Sayur",
+  "grup": "Sayur bunga",
+  "awet": 7,
+  "satuan": "batang",
+  "tempat": "laci",
+  "tint": "#FADCED",
+  "tips": "Bungkus longgar dengan tisu atau kantong berlubang lalu simpan di laci sayur. Sayur bunga cepat layu, olah dalam beberapa hari.",
+  "ide": [
+   {
+    "nama": "Sambal kecombrang",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Pecak ikan kecombrang",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Nasi bakar",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 70
+ },
+ {
+  "id": "rebung",
+  "label": "Rebung",
+  "en": "bamboo shoot",
+  "kat": "Sayur",
+  "grup": "Batang & tunas",
+  "awet": 7,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#EFF1E7",
+  "tips": "Rebus rebung dulu sebelum disimpan untuk menghilangkan rasa pahit, lalu simpan terendam air di wadah tertutup.",
+  "ide": [
+   {
+    "nama": "Lumpia rebung",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Gulai rebung",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Sayur lodeh",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 71
+ },
+ {
+  "id": "asparagus",
+  "label": "Asparagus",
+  "en": "asparagus",
+  "kat": "Sayur",
+  "grup": "Batang & tunas",
+  "awet": 4,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#EDF1E2",
+  "tips": "Berdirikan asparagus di gelas berisi sedikit air, tutup ujungnya dengan plastik, lalu simpan di rak kulkas.",
+  "ide": [
+   {
+    "nama": "Tumis asparagus",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Sup asparagus",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Asparagus panggang",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 72
+ },
+ {
+  "id": "tauge",
+  "label": "Tauge",
+  "en": "bean sprouts",
+  "kat": "Sayur",
+  "grup": "Batang & tunas",
+  "awet": 2,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#F4F5EA",
+  "tips": "Rendam tauge di air dingin dalam wadah tertutup dan ganti airnya tiap hari. Tauge paling cepat layu, olah dalam 1–2 hari.",
+  "ide": [
+   {
+    "nama": "Tumis tauge",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Bakwan tauge",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Pecel",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 73
+ },
+ {
+  "id": "leek",
+  "label": "Daun bawang perai (leek)",
+  "en": "leek",
+  "kat": "Sayur",
+  "grup": "Batang & tunas",
+  "awet": 10,
+  "satuan": "batang",
+  "tempat": "laci",
+  "tint": "#F1F6EF",
+  "tips": "Simpan batang tegak dengan pangkal sedikit terendam air, atau bungkus tisu lembap di laci sayur.",
+  "ide": [
+   {
+    "nama": "Sup leek kentang",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Tumis leek",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Isian martabak",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 74
+ },
+ {
+  "id": "seledribatang",
+  "label": "Seledri batang",
+  "en": "celery stalk",
+  "kat": "Sayur",
+  "grup": "Batang & tunas",
+  "awet": 14,
+  "satuan": "batang",
+  "tempat": "laci",
+  "tint": "#EAF4E3",
+  "tips": "Simpan batang tegak dengan pangkal sedikit terendam air, atau bungkus tisu lembap di laci sayur.",
+  "ide": [
+   {
+    "nama": "Jus seledri",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Sup krim seledri",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Tumis",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 75
+ },
+ {
+  "id": "batangtalas",
+  "label": "Batang talas",
+  "en": "taro stem",
+  "kat": "Sayur",
+  "grup": "Batang & tunas",
+  "awet": 3,
+  "satuan": "ikat",
+  "tempat": "laci",
+  "tint": "#E9EFE6",
+  "tips": "Simpan batang tegak dengan pangkal sedikit terendam air, atau bungkus tisu lembap di laci sayur.",
+  "ide": [
+   {
+    "nama": "Gulai batang talas",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Sayur santan",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Tumis",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 76
+ },
+ {
+  "id": "bawangmerah",
+  "label": "Bawang merah",
+  "en": "shallot",
+  "kat": "Sayur",
+  "grup": "Bumbu & rempah",
+  "awet": 30,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#EAD8D8",
+  "tips": "Bawang lebih awet di tempat kering berangin. Di kulkas, simpan di wadah berlubang dan jauhkan dari kentang.",
+  "ide": [
+   {
+    "nama": "Bawang goreng",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Sambal bawang",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Acar bawang",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 77
+ },
+ {
+  "id": "bawangputih",
+  "label": "Bawang putih",
+  "en": "garlic",
+  "kat": "Sayur",
+  "grup": "Bumbu & rempah",
+  "awet": 30,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#F4E9E9",
+  "tips": "Simpan siung utuh di tempat kering. Bawang yang sudah dikupas simpan di toples tertutup di kulkas.",
+  "ide": [
+   {
+    "nama": "Bawang putih goreng",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Roti bawang",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Aglio olio",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 78
+ },
+ {
+  "id": "bawangbombay",
+  "label": "Bawang bombay",
+  "en": "onion",
+  "kat": "Sayur",
+  "grup": "Bumbu & rempah",
+  "awet": 30,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#F6E8DB",
+  "tips": "Bombay utuh simpan kering di tempat sejuk. Yang sudah dipotong bungkus rapat dan simpan di kulkas.",
+  "ide": [
+   {
+    "nama": "Onion ring",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Tumis bombay",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Sup bawang",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 79
+ },
+ {
+  "id": "jahe",
+  "label": "Jahe",
+  "en": "ginger",
+  "kat": "Sayur",
+  "grup": "Bumbu & rempah",
+  "awet": 21,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#F8E4DB",
+  "tips": "Rimpang (jahe, kunyit, lengkuas) simpan kering di laci sayur dalam kantong kertas. Daun bumbu bungkus tisu lalu masukkan wadah tertutup.",
+  "ide": [
+   {
+    "nama": "Wedang jahe",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Tumis bumbu jahe",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Teh jahe",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 80
+ },
+ {
+  "id": "kunyit",
+  "label": "Kunyit",
+  "en": "turmeric",
+  "kat": "Sayur",
+  "grup": "Bumbu & rempah",
+  "awet": 21,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#F6D1CE",
+  "tips": "Rimpang (jahe, kunyit, lengkuas) simpan kering di laci sayur dalam kantong kertas. Daun bumbu bungkus tisu lalu masukkan wadah tertutup.",
+  "ide": [
+   {
+    "nama": "Jamu kunyit asam",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Nasi kuning",
+    "waktu": "45 mnt"
+   },
+   {
+    "nama": "Ayam bumbu kuning",
+    "waktu": "45 mnt"
+   }
+  ],
+  "urutan": 81
+ },
+ {
+  "id": "lengkuas",
+  "label": "Lengkuas",
+  "en": "galangal",
+  "kat": "Sayur",
+  "grup": "Bumbu & rempah",
+  "awet": 14,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#FCF0EE",
+  "tips": "Rimpang (jahe, kunyit, lengkuas) simpan kering di laci sayur dalam kantong kertas. Daun bumbu bungkus tisu lalu masukkan wadah tertutup.",
+  "ide": [
+   {
+    "nama": "Ayam goreng lengkuas",
+    "waktu": "45 mnt"
+   },
+   {
+    "nama": "Rendang",
+    "waktu": "2 jam"
+   },
+   {
+    "nama": "Opor",
+    "waktu": "1 jam"
+   }
+  ],
+  "urutan": 82
+ },
+ {
+  "id": "kencur",
+  "label": "Kencur",
+  "en": "aromatic ginger kaempferia",
+  "kat": "Sayur",
+  "grup": "Bumbu & rempah",
+  "awet": 21,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#EEE6E3",
+  "tips": "Rimpang (jahe, kunyit, lengkuas) simpan kering di laci sayur dalam kantong kertas. Daun bumbu bungkus tisu lalu masukkan wadah tertutup.",
+  "ide": [
+   {
+    "nama": "Beras kencur",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Sambal kencur",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Bumbu pecel",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 83
+ },
+ {
+  "id": "serai",
+  "label": "Serai",
+  "en": "lemongrass",
+  "kat": "Sayur",
+  "grup": "Bumbu & rempah",
+  "awet": 14,
+  "satuan": "batang",
+  "tempat": "laci",
+  "tint": "#F4F8EC",
+  "tips": "Rimpang (jahe, kunyit, lengkuas) simpan kering di laci sayur dalam kantong kertas. Daun bumbu bungkus tisu lalu masukkan wadah tertutup.",
+  "ide": [
+   {
+    "nama": "Teh serai",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Ayam bakar serai",
+    "waktu": "45 mnt"
+   },
+   {
+    "nama": "Sup tom yum",
+    "waktu": "25 mnt"
+   }
+  ],
+  "urutan": 84
+ },
+ {
+  "id": "daunjeruk",
+  "label": "Daun jeruk",
+  "en": "kaffir lime leaves",
+  "kat": "Sayur",
+  "grup": "Bumbu & rempah",
+  "awet": 14,
+  "satuan": "lembar",
+  "tempat": "laci",
+  "tint": "#D6E7E1",
+  "tips": "Rimpang (jahe, kunyit, lengkuas) simpan kering di laci sayur dalam kantong kertas. Daun bumbu bungkus tisu lalu masukkan wadah tertutup.",
+  "ide": [
+   {
+    "nama": "Ayam bakar daun jeruk",
+    "waktu": "45 mnt"
+   },
+   {
+    "nama": "Sambal",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Tumis bumbu",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 85
+ },
+ {
+  "id": "daunsalam",
+  "label": "Daun salam",
+  "en": "bay leaf indonesian bay",
+  "kat": "Sayur",
+  "grup": "Bumbu & rempah",
+  "awet": 14,
+  "satuan": "lembar",
+  "tempat": "laci",
+  "tint": "#D9E3DF",
+  "tips": "Rimpang (jahe, kunyit, lengkuas) simpan kering di laci sayur dalam kantong kertas. Daun bumbu bungkus tisu lalu masukkan wadah tertutup.",
+  "ide": [
+   {
+    "nama": "Nasi uduk",
+    "waktu": "45 mnt"
+   },
+   {
+    "nama": "Opor",
+    "waktu": "1 jam"
+   },
+   {
+    "nama": "Semur",
+    "waktu": "1 jam"
+   }
+  ],
+  "urutan": 86
+ },
+ {
+  "id": "pandan",
+  "label": "Daun pandan",
+  "en": "pandan leaves",
+  "kat": "Sayur",
+  "grup": "Bumbu & rempah",
+  "awet": 7,
+  "satuan": "lembar",
+  "tempat": "laci",
+  "tint": "#DAEBD8",
+  "tips": "Bungkus daun pandan dengan tisu lembap lalu masukkan kantong plastik. Bisa juga diiris lalu dibekukan.",
+  "ide": [
+   {
+    "nama": "Nasi pandan",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Bubur sumsum pandan",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Es pandan",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 87
+ },
+ {
+  "id": "temulawak",
+  "label": "Temulawak",
+  "en": "java ginger",
+  "kat": "Sayur",
+  "grup": "Bumbu & rempah",
+  "awet": 21,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#F8DCD4",
+  "tips": "Rimpang (jahe, kunyit, lengkuas) simpan kering di laci sayur dalam kantong kertas. Daun bumbu bungkus tisu lalu masukkan wadah tertutup.",
+  "ide": [
+   {
+    "nama": "Jamu temulawak",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Wedang temulawak",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Sirup temulawak",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 88
+ },
+ {
+  "id": "champ",
+  "label": "Jamur kancing",
+  "en": "button mushroom champignon",
+  "kat": "Sayur",
+  "grup": "Jamur",
+  "awet": 7,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#F1E6D6",
+  "tips": "Simpan di kantong kertas di rak kulkas, jangan di plastik tertutup supaya tidak berlendir. Jangan dicuci sebelum disimpan.",
+  "ide": [
+   {
+    "nama": "Tumis jamur kecap",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Jamur crispy",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Sup jamur bening",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 89
+ },
+ {
+  "id": "jamurtiram",
+  "label": "Jamur tiram",
+  "en": "oyster mushroom",
+  "kat": "Sayur",
+  "grup": "Jamur",
+  "awet": 4,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#F0EEED",
+  "tips": "Simpan jamur di kantong kertas di rak kulkas, jangan di plastik tertutup supaya tidak berlendir. Jangan dicuci sebelum disimpan.",
+  "ide": [
+   {
+    "nama": "Jamur tiram crispy",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Tumis jamur tiram",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Pepes jamur",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 90
+ },
+ {
+  "id": "jamurkuping",
+  "label": "Jamur kuping",
+  "en": "wood ear mushroom",
+  "kat": "Sayur",
+  "grup": "Jamur",
+  "awet": 7,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#D7D5D3",
+  "tips": "Simpan jamur di kantong kertas di rak kulkas, jangan di plastik tertutup supaya tidak berlendir. Jangan dicuci sebelum disimpan.",
+  "ide": [
+   {
+    "nama": "Sup jamur kuping",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Capcay",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Tumis jamur kuping",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 91
+ },
+ {
+  "id": "shiitake",
+  "label": "Jamur shiitake",
+  "en": "shiitake",
+  "kat": "Sayur",
+  "grup": "Jamur",
+  "awet": 7,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#E0DAD6",
+  "tips": "Simpan jamur di kantong kertas di rak kulkas, jangan di plastik tertutup supaya tidak berlendir. Jangan dicuci sebelum disimpan.",
+  "ide": [
+   {
+    "nama": "Sup miso shiitake",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Tumis shiitake",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Nasi shiitake",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 92
+ },
+ {
+  "id": "enoki",
+  "label": "Jamur enoki",
+  "en": "enoki",
+  "kat": "Sayur",
+  "grup": "Jamur",
+  "awet": 7,
+  "satuan": "bungkus",
+  "tempat": "laci",
+  "tint": "#F4F4F4",
+  "tips": "Simpan enoki dalam kemasannya di laci sayur. Potong pangkalnya tepat sebelum dimasak.",
+  "ide": [
+   {
+    "nama": "Enoki crispy",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Sup enoki",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Enoki saus tiram",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 93
+ },
+ {
+  "id": "jamurmerang",
+  "label": "Jamur merang",
+  "en": "straw mushroom",
+  "kat": "Sayur",
+  "grup": "Jamur",
+  "awet": 2,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#E4E1DE",
+  "tips": "Jamur merang sangat cepat mekar dan rusak. Olah di hari yang sama, atau rebus sebentar lalu simpan di kulkas.",
+  "ide": [
+   {
+    "nama": "Tumis jamur merang",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Sup jamur",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Capcay",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 94
+ },
+ {
+  "id": "pisang",
+  "label": "Pisang",
+  "en": "banana",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#FFF1C9",
+  "tips": "Gantung atau simpan di suhu ruang sampai matang. Masuk kulkas kulitnya menghitam, tapi dagingnya tetap bagus beberapa hari.",
+  "ide": [
+   {
+    "nama": "Banana bread",
+    "waktu": "60 mnt"
+   },
+   {
+    "nama": "Pisang goreng",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Smoothie pisang",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 95
+ },
+ {
+  "id": "mangga",
+  "label": "Mangga",
+  "en": "mango",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#FFF1C9",
+  "tips": "Mangga mengkal biarkan matang di suhu ruang. Setelah matang, simpan di rak kulkas.",
+  "ide": [
+   {
+    "nama": "Jus mangga",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Mango sticky rice",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Rujak mangga",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 96
+ },
+ {
+  "id": "pepaya",
+  "label": "Pepaya",
+  "en": "papaya",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "potong",
+  "tempat": "rak",
+  "tint": "#FCE8D7",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Jus pepaya",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Rujak",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 97
+ },
+ {
+  "id": "nanas",
+  "label": "Nanas",
+  "en": "pineapple",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#FAECDB",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Jus nanas",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Selai nanas",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Acar nanas",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 98
+ },
+ {
+  "id": "semangka",
+  "label": "Semangka",
+  "en": "watermelon",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "potong",
+  "tempat": "rak",
+  "tint": "#FBE1DC",
+  "tips": "Semangka utuh boleh di suhu ruang. Setelah dipotong, tutup permukaannya dengan plastik wrap lalu simpan di rak kulkas.",
+  "ide": [
+   {
+    "nama": "Es semangka",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Jus semangka",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 99
+ },
+ {
+  "id": "melon",
+  "label": "Melon",
+  "en": "melon",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "potong",
+  "tempat": "rak",
+  "tint": "#EFF3E4",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Es buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Jus melon",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 100
+ },
+ {
+  "id": "durian",
+  "label": "Durian",
+  "en": "durian",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 3,
+  "satuan": "potong",
+  "tempat": "rak",
+  "tint": "#EFECDE",
+  "tips": "Simpan daging durian di wadah kedap udara supaya baunya tidak menyebar ke seluruh kulkas.",
+  "ide": [
+   {
+    "nama": "Es durian",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Pancake durian",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Kolak durian",
+    "waktu": "25 mnt"
+   }
+  ],
+  "urutan": 101
+ },
+ {
+  "id": "rambutan",
+  "label": "Rambutan",
+  "en": "rambutan",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#E8D4D3",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Es buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Rujak",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Manisan rambutan",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 102
+ },
+ {
+  "id": "manggis",
+  "label": "Manggis",
+  "en": "mangosteen",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 7,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#D9CCDA",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Makan langsung",
+    "waktu": "2 mnt"
+   },
+   {
+    "nama": "Es manggis",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 103
+ },
+ {
+  "id": "salak",
+  "label": "Salak",
+  "en": "snake fruit salacca",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 7,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#E4DAD9",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Asinan salak",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Manisan salak",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Rujak",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 104
+ },
+ {
+  "id": "duku",
+  "label": "Duku",
+  "en": "duku",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#F7F4E8",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Makan langsung",
+    "waktu": "2 mnt"
+   },
+   {
+    "nama": "Es buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Rujak",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 105
+ },
+ {
+  "id": "langsat",
+  "label": "Langsat",
+  "en": "langsat",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#FAF5EB",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Makan langsung",
+    "waktu": "2 mnt"
+   },
+   {
+    "nama": "Es buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 106
+ },
+ {
+  "id": "kelengkeng",
+  "label": "Kelengkeng",
+  "en": "longan",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 7,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#E7E2E1",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Es kelengkeng",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Sup buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Puding kelengkeng",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 107
+ },
+ {
+  "id": "leci",
+  "label": "Leci",
+  "en": "lychee",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#EFE2E1",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Es leci",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Teh leci",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Puding leci",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 108
+ },
+ {
+  "id": "sawo",
+  "label": "Sawo",
+  "en": "sapodilla",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#EDE5E0",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Jus sawo",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Es buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Smoothie sawo",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 109
+ },
+ {
+  "id": "sirsak",
+  "label": "Sirsak",
+  "en": "soursop",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 3,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#E4EDD2",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Jus sirsak",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Es sirsak",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Puding sirsak",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 110
+ },
+ {
+  "id": "srikaya",
+  "label": "Srikaya",
+  "en": "sugar apple sweetsop",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 3,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#F2F8E3",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Es srikaya",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Selai srikaya",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Smoothie",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 111
+ },
+ {
+  "id": "nangka",
+  "label": "Nangka",
+  "en": "jackfruit",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#F1F0E1",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Es campur",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Kolak nangka",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Gudeg (nangka muda)",
+    "waktu": "3 jam"
+   }
+  ],
+  "urutan": 112
+ },
+ {
+  "id": "cempedak",
+  "label": "Cempedak",
+  "en": "cempedak",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 3,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#E9E6DE",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Cempedak goreng",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Kolak",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Es cempedak",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 113
+ },
+ {
+  "id": "jambubiji",
+  "label": "Jambu biji",
+  "en": "guava",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#F1F2D7",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Jus jambu",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Rujak",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Selai jambu",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 114
+ },
+ {
+  "id": "jambuair",
+  "label": "Jambu air",
+  "en": "water apple rose apple",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#EFCDD9",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Rujak",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Asinan",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 115
+ },
+ {
+  "id": "jambubol",
+  "label": "Jambu bol",
+  "en": "malay apple",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 4,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#E7CEDF",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Rujak",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Es buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 116
+ },
+ {
+  "id": "belimbing",
+  "label": "Belimbing",
+  "en": "star fruit carambola",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 7,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#FDF1D7",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Jus belimbing",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Rujak",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Manisan belimbing",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 117
+ },
+ {
+  "id": "belimbingwuluh",
+  "label": "Belimbing wuluh",
+  "en": "bilimbi",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 7,
+  "satuan": "gram",
+  "tempat": "laci",
+  "tint": "#E6EEE3",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Sayur asem",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Sambal belimbing wuluh",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Asinan",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 118
+ },
+ {
+  "id": "kedondong",
+  "label": "Kedondong",
+  "en": "ambarella june plum",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 7,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#EBF0D8",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Jus kedondong",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Rujak",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Asinan",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 119
+ },
+ {
+  "id": "matoa",
+  "label": "Matoa",
+  "en": "matoa pometia",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#E5D6DD",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Makan langsung",
+    "waktu": "2 mnt"
+   },
+   {
+    "nama": "Es buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 120
+ },
+ {
+  "id": "markisa",
+  "label": "Markisa",
+  "en": "passion fruit",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 10,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#DFCEDF",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Jus markisa",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Sirup markisa",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Es markisa",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 121
+ },
+ {
+  "id": "buahnaga",
+  "label": "Buah naga",
+  "en": "dragon fruit pitaya",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 7,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#F6CFE8",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Smoothie bowl",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Jus buah naga",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Puding buah naga",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 122
+ },
+ {
+  "id": "sukun",
+  "label": "Sukun",
+  "en": "breadfruit",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 3,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#ECF1E5",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Sukun goreng",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Keripik sukun",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Kolak sukun",
+    "waktu": "25 mnt"
+   }
+  ],
+  "urutan": 123
+ },
+ {
+  "id": "kepel",
+  "label": "Kepel",
+  "en": "kepel apple",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#EBE2DD",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Makan langsung",
+    "waktu": "2 mnt"
+   },
+   {
+    "nama": "Jus kepel",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 124
+ },
+ {
+  "id": "gandaria",
+  "label": "Gandaria",
+  "en": "marian plum",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#F8E7D7",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Rujak gandaria",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Sambal gandaria",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Asinan",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 125
+ },
+ {
+  "id": "kesemek",
+  "label": "Kesemek",
+  "en": "persimmon",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 7,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#FAE5D5",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Makan langsung",
+    "waktu": "2 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Manisan kesemek",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 126
+ },
+ {
+  "id": "menteng",
+  "label": "Menteng",
+  "en": "menteng baccaurea",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 5,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#F4EFE9",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Rujak",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Makan langsung",
+    "waktu": "2 mnt"
+   },
+   {
+    "nama": "Asinan",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 127
+ },
+ {
+  "id": "kawista",
+  "label": "Kawista",
+  "en": "wood apple",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 14,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#F2EEEF",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Sirup kawista",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Jus kawista",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Selai kawista",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 128
+ },
+ {
+  "id": "maja",
+  "label": "Maja",
+  "en": "bael",
+  "kat": "Buah",
+  "grup": "Buah tropis",
+  "awet": 14,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#E8EDDF",
+  "tips": "Buah yang belum matang biarkan di suhu ruang. Setelah matang, simpan di rak kulkas supaya lebih awet. Buah yang sudah dipotong tutup rapat.",
+  "ide": [
+   {
+    "nama": "Sirup maja",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Jus maja",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Teh maja",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 129
+ },
+ {
+  "id": "jeruk",
+  "label": "Jeruk manis",
+  "en": "orange sweet orange",
+  "kat": "Buah",
+  "grup": "Jeruk-jerukan",
+  "awet": 21,
+  "satuan": "buah",
+  "tempat": "pintu",
+  "tint": "#FFE6CF",
+  "tips": "Simpan di rak pintu atau laci buah. Jangan ditumpuk dalam plastik tertutup.",
+  "ide": [
+   {
+    "nama": "Es jeruk peras",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Selai kulit jeruk",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 130
+ },
+ {
+  "id": "mandarin",
+  "label": "Jeruk mandarin",
+  "en": "mandarin",
+  "kat": "Buah",
+  "grup": "Jeruk-jerukan",
+  "awet": 14,
+  "satuan": "buah",
+  "tempat": "pintu",
+  "tint": "#F9E5CF",
+  "tips": "Jeruk paling awet di rak pintu atau laci kulkas tanpa dibungkus plastik. Jangan ditumpuk terlalu rapat supaya tidak berjamur.",
+  "ide": [
+   {
+    "nama": "Makan langsung",
+    "waktu": "2 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Selai jeruk",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 131
+ },
+ {
+  "id": "jerukbali",
+  "label": "Jeruk bali",
+  "en": "pomelo",
+  "kat": "Buah",
+  "grup": "Jeruk-jerukan",
+  "awet": 21,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#FCFAE6",
+  "tips": "Jeruk paling awet di rak pintu atau laci kulkas tanpa dibungkus plastik. Jangan ditumpuk terlalu rapat supaya tidak berjamur.",
+  "ide": [
+   {
+    "nama": "Salad jeruk bali",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Rujak",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Es jeruk bali",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 132
+ },
+ {
+  "id": "jeruknipis",
+  "label": "Jeruk nipis",
+  "en": "lime",
+  "kat": "Buah",
+  "grup": "Jeruk-jerukan",
+  "awet": 21,
+  "satuan": "buah",
+  "tempat": "pintu",
+  "tint": "#E9FAD6",
+  "tips": "Jeruk paling awet di rak pintu atau laci kulkas tanpa dibungkus plastik. Jangan ditumpuk terlalu rapat supaya tidak berjamur.",
+  "ide": [
+   {
+    "nama": "Es jeruk nipis",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Sambal",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Marinasi ikan",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 133
+ },
+ {
+  "id": "lemon",
+  "label": "Lemon",
+  "en": "lemon",
+  "kat": "Buah",
+  "grup": "Jeruk-jerukan",
+  "awet": 21,
+  "satuan": "buah",
+  "tempat": "pintu",
+  "tint": "#FCF4D7",
+  "tips": "Jeruk paling awet di rak pintu atau laci kulkas tanpa dibungkus plastik. Jangan ditumpuk terlalu rapat supaya tidak berjamur.",
+  "ide": [
+   {
+    "nama": "Lemonade",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Lemon tea",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Ayam saus lemon",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 134
+ },
+ {
+  "id": "jerukpurut",
+  "label": "Jeruk purut",
+  "en": "kaffir lime",
+  "kat": "Buah",
+  "grup": "Jeruk-jerukan",
+  "awet": 14,
+  "satuan": "buah",
+  "tempat": "pintu",
+  "tint": "#DBEDD2",
+  "tips": "Jeruk paling awet di rak pintu atau laci kulkas tanpa dibungkus plastik. Jangan ditumpuk terlalu rapat supaya tidak berjamur.",
+  "ide": [
+   {
+    "nama": "Sambal",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Bumbu rendang",
+    "waktu": "2 jam"
+   },
+   {
+    "nama": "Pengharum masakan",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 135
+ },
+ {
+  "id": "jerukkasturi",
+  "label": "Jeruk sambal (kasturi)",
+  "en": "calamansi",
+  "kat": "Buah",
+  "grup": "Jeruk-jerukan",
+  "awet": 14,
+  "satuan": "gram",
+  "tempat": "pintu",
+  "tint": "#F7F4D4",
+  "tips": "Jeruk paling awet di rak pintu atau laci kulkas tanpa dibungkus plastik. Jangan ditumpuk terlalu rapat supaya tidak berjamur.",
+  "ide": [
+   {
+    "nama": "Es jeruk kasturi",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Sambal",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Marinasi",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 136
+ },
+ {
+  "id": "jerukkeprok",
+  "label": "Jeruk keprok",
+  "en": "tangerine",
+  "kat": "Buah",
+  "grup": "Jeruk-jerukan",
+  "awet": 14,
+  "satuan": "buah",
+  "tempat": "pintu",
+  "tint": "#FAEDD6",
+  "tips": "Jeruk paling awet di rak pintu atau laci kulkas tanpa dibungkus plastik. Jangan ditumpuk terlalu rapat supaya tidak berjamur.",
+  "ide": [
+   {
+    "nama": "Makan langsung",
+    "waktu": "2 mnt"
+   },
+   {
+    "nama": "Jus jeruk",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 137
+ },
+ {
+  "id": "sunkist",
+  "label": "Jeruk sunkist",
+  "en": "navel orange sunkist",
+  "kat": "Buah",
+  "grup": "Jeruk-jerukan",
+  "awet": 21,
+  "satuan": "buah",
+  "tempat": "pintu",
+  "tint": "#FAE2CE",
+  "tips": "Jeruk paling awet di rak pintu atau laci kulkas tanpa dibungkus plastik. Jangan ditumpuk terlalu rapat supaya tidak berjamur.",
+  "ide": [
+   {
+    "nama": "Jus jeruk",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Puding jeruk",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 138
+ },
+ {
+  "id": "stroberi",
+  "label": "Stroberi",
+  "en": "strawberry",
+  "kat": "Buah",
+  "grup": "Buah beri",
+  "awet": 3,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#FBE1DC",
+  "tips": "Paling cepat busuk! Simpan di wadah beralas tisu dan habiskan dalam 2–3 hari.",
+  "ide": [
+   {
+    "nama": "Selai stroberi",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Smoothie stroberi",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Stroberi celup cokelat",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 139
+ },
+ {
+  "id": "blueberry",
+  "label": "Blueberry",
+  "en": "blueberry",
+  "kat": "Buah",
+  "grup": "Buah beri",
+  "awet": 10,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#E3DCF0",
+  "tips": "Simpan beri tanpa dicuci di wadah beralas tisu di rak kulkas. Cuci tepat sebelum dimakan supaya tidak cepat berjamur.",
+  "ide": [
+   {
+    "nama": "Pancake blueberry",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Smoothie",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Muffin blueberry",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 140
+ },
+ {
+  "id": "raspberry",
+  "label": "Raspberry",
+  "en": "raspberry",
+  "kat": "Buah",
+  "grup": "Buah beri",
+  "awet": 3,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#F1DADF",
+  "tips": "Simpan beri tanpa dicuci di wadah beralas tisu di rak kulkas. Cuci tepat sebelum dimakan supaya tidak cepat berjamur.",
+  "ide": [
+   {
+    "nama": "Smoothie",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Selai raspberry",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Topping yogurt",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 141
+ },
+ {
+  "id": "blackberry",
+  "label": "Blackberry",
+  "en": "blackberry",
+  "kat": "Buah",
+  "grup": "Buah beri",
+  "awet": 3,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#D9D8DD",
+  "tips": "Simpan beri tanpa dicuci di wadah beralas tisu di rak kulkas. Cuci tepat sebelum dimakan supaya tidak cepat berjamur.",
+  "ide": [
+   {
+    "nama": "Selai blackberry",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Smoothie",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Topping yogurt",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 142
+ },
+ {
+  "id": "cranberry",
+  "label": "Cranberry",
+  "en": "cranberry",
+  "kat": "Buah",
+  "grup": "Buah beri",
+  "awet": 21,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#F4D4DA",
+  "tips": "Simpan beri tanpa dicuci di wadah beralas tisu di rak kulkas. Cuci tepat sebelum dimakan supaya tidak cepat berjamur.",
+  "ide": [
+   {
+    "nama": "Saus cranberry",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Jus cranberry",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Kue cranberry",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 143
+ },
+ {
+  "id": "murbei",
+  "label": "Murbei",
+  "en": "mulberry",
+  "kat": "Buah",
+  "grup": "Buah beri",
+  "awet": 3,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#DFD6DC",
+  "tips": "Simpan beri tanpa dicuci di wadah beralas tisu di rak kulkas. Cuci tepat sebelum dimakan supaya tidak cepat berjamur.",
+  "ide": [
+   {
+    "nama": "Selai murbei",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Jus murbei",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Topping yogurt",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 144
+ },
+ {
+  "id": "gojiberry",
+  "label": "Goji berry",
+  "en": "goji berry wolfberry",
+  "kat": "Buah",
+  "grup": "Buah beri",
+  "awet": 7,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#F4D7D2",
+  "tips": "Simpan beri tanpa dicuci di wadah beralas tisu di rak kulkas. Cuci tepat sebelum dimakan supaya tidak cepat berjamur.",
+  "ide": [
+   {
+    "nama": "Teh goji",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Sup ayam goji",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Oatmeal goji",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 145
+ },
+ {
+  "id": "ciplukan",
+  "label": "Ciplukan (gooseberry)",
+  "en": "gooseberry cape gooseberry",
+  "kat": "Buah",
+  "grup": "Buah beri",
+  "awet": 7,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#F9F2D9",
+  "tips": "Simpan beri tanpa dicuci di wadah beralas tisu di rak kulkas. Cuci tepat sebelum dimakan supaya tidak cepat berjamur.",
+  "ide": [
+   {
+    "nama": "Makan langsung",
+    "waktu": "2 mnt"
+   },
+   {
+    "nama": "Selai ciplukan",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 146
+ },
+ {
+  "id": "apel",
+  "label": "Apel",
+  "en": "apple red apple",
+  "kat": "Buah",
+  "grup": "Buah subtropis & impor",
+  "awet": 30,
+  "satuan": "buah",
+  "tempat": "pintu",
+  "tint": "#FBE1DC",
+  "tips": "Apel tahan lama di kulkas. Pisahkan dari sayur karena apel mempercepat sayur layu.",
+  "ide": [
+   {
+    "nama": "Jus apel",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Apel panggang kayu manis",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 147
+ },
+ {
+  "id": "apelhijau",
+  "label": "Apel hijau",
+  "en": "green apple",
+  "kat": "Buah",
+  "grup": "Buah subtropis & impor",
+  "awet": 30,
+  "satuan": "buah",
+  "tempat": "pintu",
+  "tint": "#ECF4D8",
+  "tips": "Simpan di rak pintu atau laci buah. Pisahkan apel dan pir dari buah lain karena gas etilennya mempercepat buah lain matang.",
+  "ide": [
+   {
+    "nama": "Rujak",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Jus apel hijau",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Salad",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 148
+ },
+ {
+  "id": "pir",
+  "label": "Pir",
+  "en": "pear",
+  "kat": "Buah",
+  "grup": "Buah subtropis & impor",
+  "awet": 14,
+  "satuan": "buah",
+  "tempat": "pintu",
+  "tint": "#F0F0D3",
+  "tips": "Simpan di rak pintu atau laci buah. Pisahkan apel dan pir dari buah lain karena gas etilennya mempercepat buah lain matang.",
+  "ide": [
+   {
+    "nama": "Pir rebus kayu manis",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Jus pir",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 149
+ },
+ {
+  "id": "anggur",
+  "label": "Anggur",
+  "en": "grape grapes",
+  "kat": "Buah",
+  "grup": "Buah subtropis & impor",
+  "awet": 7,
+  "satuan": "gram",
+  "tempat": "pintu",
+  "tint": "#EDE1F2",
+  "tips": "Jangan dicuci sebelum disimpan. Buang butir yang lembek supaya yang lain tidak ikut busuk.",
+  "ide": [
+   {
+    "nama": "Anggur beku camilan",
+    "waktu": "2 jam"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Jus anggur",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 150
+ },
+ {
+  "id": "anggurhijau",
+  "label": "Anggur hijau",
+  "en": "green grape",
+  "kat": "Buah",
+  "grup": "Buah subtropis & impor",
+  "awet": 7,
+  "satuan": "gram",
+  "tempat": "pintu",
+  "tint": "#E2E4DB",
+  "tips": "Simpan di rak pintu atau laci buah. Pisahkan apel dan pir dari buah lain karena gas etilennya mempercepat buah lain matang.",
+  "ide": [
+   {
+    "nama": "Es buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Jus anggur",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 151
+ },
+ {
+  "id": "kiwi",
+  "label": "Kiwi",
+  "en": "kiwi",
+  "kat": "Buah",
+  "grup": "Buah subtropis & impor",
+  "awet": 21,
+  "satuan": "buah",
+  "tempat": "pintu",
+  "tint": "#DDEFC8",
+  "tips": "Kiwi keras bisa disimpan lama di kulkas. Keluarkan 1–2 hari sebelum dimakan.",
+  "ide": [
+   {
+    "nama": "Smoothie kiwi",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Kiwi beku",
+    "waktu": "2 jam"
+   }
+  ],
+  "urutan": 152
+ },
+ {
+  "id": "ceri",
+  "label": "Ceri",
+  "en": "cherry cherries",
+  "kat": "Buah",
+  "grup": "Buah subtropis & impor",
+  "awet": 7,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#F3D7D8",
+  "tips": "Simpan di rak pintu atau laci buah. Pisahkan apel dan pir dari buah lain karena gas etilennya mempercepat buah lain matang.",
+  "ide": [
+   {
+    "nama": "Pai ceri",
+    "waktu": "1 jam"
+   },
+   {
+    "nama": "Smoothie",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Topping kue",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 153
+ },
+ {
+  "id": "persik",
+  "label": "Persik",
+  "en": "peach",
+  "kat": "Buah",
+  "grup": "Buah subtropis & impor",
+  "awet": 5,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#FCE4DA",
+  "tips": "Simpan di rak pintu atau laci buah. Pisahkan apel dan pir dari buah lain karena gas etilennya mempercepat buah lain matang.",
+  "ide": [
+   {
+    "nama": "Persik panggang",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Smoothie",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 154
+ },
+ {
+  "id": "plum",
+  "label": "Plum",
+  "en": "plum",
+  "kat": "Buah",
+  "grup": "Buah subtropis & impor",
+  "awet": 5,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#DAD0E5",
+  "tips": "Simpan di rak pintu atau laci buah. Pisahkan apel dan pir dari buah lain karena gas etilennya mempercepat buah lain matang.",
+  "ide": [
+   {
+    "nama": "Selai plum",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Kue plum",
+    "waktu": "1 jam"
+   },
+   {
+    "nama": "Jus plum",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 155
+ },
+ {
+  "id": "aprikot",
+  "label": "Aprikot",
+  "en": "apricot",
+  "kat": "Buah",
+  "grup": "Buah subtropis & impor",
+  "awet": 5,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#F8E5D4",
+  "tips": "Simpan di rak pintu atau laci buah. Pisahkan apel dan pir dari buah lain karena gas etilennya mempercepat buah lain matang.",
+  "ide": [
+   {
+    "nama": "Selai aprikot",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Salad",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Aprikot panggang",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 156
+ },
+ {
+  "id": "delima",
+  "label": "Delima",
+  "en": "pomegranate",
+  "kat": "Buah",
+  "grup": "Buah subtropis & impor",
+  "awet": 30,
+  "satuan": "buah",
+  "tempat": "pintu",
+  "tint": "#ECD3D8",
+  "tips": "Simpan di rak pintu atau laci buah. Pisahkan apel dan pir dari buah lain karena gas etilennya mempercepat buah lain matang.",
+  "ide": [
+   {
+    "nama": "Jus delima",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Salad delima",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Topping yogurt",
+    "waktu": "5 mnt"
+   }
+  ],
+  "urutan": 157
+ },
+ {
+  "id": "alpukat",
+  "label": "Alpukat",
+  "en": "avocado",
+  "kat": "Buah",
+  "grup": "Buah subtropis & impor",
+  "awet": 4,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#DDEFC8",
+  "tips": "Biarkan matang di suhu ruang. Setelah empuk, masukkan rak kulkas supaya tidak terlalu matang.",
+  "ide": [
+   {
+    "nama": "Jus alpukat",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Roti alpukat",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Es alpukat kerok",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 158
+ },
+ {
+  "id": "kurma",
+  "label": "Kurma",
+  "en": "date dates",
+  "kat": "Buah",
+  "grup": "Buah subtropis & impor",
+  "awet": 60,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#DED4D5",
+  "tips": "Simpan di toples tertutup di rak kulkas supaya tidak kering dan tidak dikerubungi semut.",
+  "ide": [
+   {
+    "nama": "Smoothie kurma",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Kurma isi keju",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Bola kurma",
+    "waktu": "20 mnt"
+   }
+  ],
+  "urutan": 159
+ },
+ {
+  "id": "buahtin",
+  "label": "Buah tin (ara)",
+  "en": "fig",
+  "kat": "Buah",
+  "grup": "Buah subtropis & impor",
+  "awet": 3,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#DED3DE",
+  "tips": "Simpan di rak pintu atau laci buah. Pisahkan apel dan pir dari buah lain karena gas etilennya mempercepat buah lain matang.",
+  "ide": [
+   {
+    "nama": "Salad buah tin",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Selai tin",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Tin panggang madu",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 160
+ },
+ {
+  "id": "zaitun",
+  "label": "Zaitun",
+  "en": "olive",
+  "kat": "Buah",
+  "grup": "Buah subtropis & impor",
+  "awet": 14,
+  "satuan": "gram",
+  "tempat": "pintu",
+  "tint": "#E1E7D8",
+  "tips": "Simpan di rak pintu atau laci buah. Pisahkan apel dan pir dari buah lain karena gas etilennya mempercepat buah lain matang.",
+  "ide": [
+   {
+    "nama": "Salad zaitun",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Pasta zaitun",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Pizza",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 161
+ },
+ {
+  "id": "blewah",
+  "label": "Blewah",
+  "en": "cantaloupe",
+  "kat": "Buah",
+  "grup": "Buah subtropis & impor",
+  "awet": 5,
+  "satuan": "potong",
+  "tempat": "rak",
+  "tint": "#F5ECE5",
+  "tips": "Simpan di rak pintu atau laci buah. Pisahkan apel dan pir dari buah lain karena gas etilennya mempercepat buah lain matang.",
+  "ide": [
+   {
+    "nama": "Es blewah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Jus blewah",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 162
+ },
+ {
+  "id": "honeydew",
+  "label": "Melon honeydew",
+  "en": "honeydew melon",
+  "kat": "Buah",
+  "grup": "Buah subtropis & impor",
+  "awet": 7,
+  "satuan": "potong",
+  "tempat": "rak",
+  "tint": "#F4F7ED",
+  "tips": "Simpan di rak pintu atau laci buah. Pisahkan apel dan pir dari buah lain karena gas etilennya mempercepat buah lain matang.",
+  "ide": [
+   {
+    "nama": "Es buah",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Jus melon",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Salad buah",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 163
+ },
+ {
+  "id": "kelapa",
+  "label": "Kelapa",
+  "en": "coconut",
+  "kat": "Buah",
+  "grup": "Buah lainnya",
+  "awet": 14,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#EDE7E9",
+  "tips": "Kelapa utuh tahan lama di suhu ruang. Daging kelapa parut simpan di wadah tertutup di kulkas dan habiskan dalam 2–3 hari.",
+  "ide": [
+   {
+    "nama": "Santan segar",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Serundeng",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Kue kelapa",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 164
+ },
+ {
+  "id": "kelapamuda",
+  "label": "Kelapa muda",
+  "en": "young coconut",
+  "kat": "Buah",
+  "grup": "Buah lainnya",
+  "awet": 5,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#F5F3EF",
+  "tips": "Simpan di rak kulkas dalam wadah tertutup. Buah yang sudah dibuka atau dipotong sebaiknya dihabiskan dalam beberapa hari.",
+  "ide": [
+   {
+    "nama": "Es kelapa muda",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Puding kelapa muda",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Es campur",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 165
+ },
+ {
+  "id": "pinang",
+  "label": "Pinang",
+  "en": "areca nut betel nut",
+  "kat": "Buah",
+  "grup": "Buah lainnya",
+  "awet": 14,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#EDDCD2",
+  "tips": "Simpan di rak kulkas dalam wadah tertutup. Buah yang sudah dibuka atau dipotong sebaiknya dihabiskan dalam beberapa hari.",
+  "ide": [
+   {
+    "nama": "Teh pinang",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Rebus pinang",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Simpan kering",
+    "waktu": "1 hari"
+   }
+  ],
+  "urutan": 166
+ },
+ {
+  "id": "kolangkaling",
+  "label": "Kolang-kaling",
+  "en": "sugar palm fruit",
+  "kat": "Buah",
+  "grup": "Buah lainnya",
+  "awet": 7,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#F7F6F0",
+  "tips": "Simpan terendam air matang atau sirup di wadah tertutup, ganti airnya tiap 2 hari.",
+  "ide": [
+   {
+    "nama": "Es kolang-kaling",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Kolak",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Manisan kolang-kaling",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 167
+ },
+ {
+  "id": "asamjawa",
+  "label": "Asam jawa",
+  "en": "tamarind",
+  "kat": "Buah",
+  "grup": "Buah lainnya",
+  "awet": 60,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#E6DBD9",
+  "tips": "Bungkus rapat asam jawa dengan plastik atau toples supaya tidak lengket dan berjamur.",
+  "ide": [
+   {
+    "nama": "Sayur asem",
+    "waktu": "30 mnt"
+   },
+   {
+    "nama": "Jamu kunyit asam",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Sambal asam",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 168
+ },
+ {
+  "id": "mengkudu",
+  "label": "Mengkudu",
+  "en": "noni",
+  "kat": "Buah",
+  "grup": "Buah lainnya",
+  "awet": 5,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#FBFBF3",
+  "tips": "Simpan di rak kulkas dalam wadah tertutup. Buah yang sudah dibuka atau dipotong sebaiknya dihabiskan dalam beberapa hari.",
+  "ide": [
+   {
+    "nama": "Jus mengkudu",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Jamu mengkudu",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Rujak",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 169
+ },
+ {
+  "id": "siwalan",
+  "label": "Siwalan (lontar)",
+  "en": "palmyra fruit",
+  "kat": "Buah",
+  "grup": "Buah lainnya",
+  "awet": 3,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#DAD7D9",
+  "tips": "Simpan di rak kulkas dalam wadah tertutup. Buah yang sudah dibuka atau dipotong sebaiknya dihabiskan dalam beberapa hari.",
+  "ide": [
+   {
+    "nama": "Es siwalan",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Es campur",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Makan langsung",
+    "waktu": "2 mnt"
+   }
+  ],
+  "urutan": 170
+ },
+ {
+  "id": "kluwek",
+  "label": "Kluwek",
+  "en": "kluwak",
+  "kat": "Buah",
+  "grup": "Buah lainnya",
+  "awet": 30,
+  "satuan": "buah",
+  "tempat": "rak",
+  "tint": "#D6D0D0",
+  "tips": "Simpan di rak kulkas dalam wadah tertutup. Buah yang sudah dibuka atau dipotong sebaiknya dihabiskan dalam beberapa hari.",
+  "ide": [
+   {
+    "nama": "Rawon",
+    "waktu": "2 jam"
+   },
+   {
+    "nama": "Brongkos",
+    "waktu": "1 jam"
+   },
+   {
+    "nama": "Ayam pindang",
+    "waktu": "1 jam"
+   }
+  ],
+  "urutan": 171
+ },
+ {
+  "id": "susu",
+  "label": "Susu",
+  "en": "milk",
+  "kat": "Lainnya",
+  "grup": "Susu & olahan",
+  "awet": 5,
+  "satuan": "kotak",
+  "tempat": "rak",
+  "tint": "#F5F8FC",
+  "tips": "Simpan di rak kulkas yang paling dingin (bukan di pintu) dan tutup rapat setelah dibuka.",
+  "ide": [
+   {
+    "nama": "Susu hangat madu",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Smoothie pisang",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Puding susu",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 172
+ },
+ {
+  "id": "keju",
+  "label": "Keju",
+  "en": "cheese",
+  "kat": "Lainnya",
+  "grup": "Susu & olahan",
+  "awet": 21,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#FEF7D6",
+  "tips": "Simpan di rak kulkas yang paling dingin (bukan di pintu) dan tutup rapat setelah dibuka.",
+  "ide": [
+   {
+    "nama": "Roti bakar keju",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Makaroni keju",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Omelet keju",
+    "waktu": "10 mnt"
+   }
+  ],
+  "urutan": 173
+ },
+ {
+  "id": "mentega",
+  "label": "Mentega",
+  "en": "butter",
+  "kat": "Lainnya",
+  "grup": "Susu & olahan",
+  "awet": 30,
+  "satuan": "gram",
+  "tempat": "pintu",
+  "tint": "#F9F0DD",
+  "tips": "Simpan di rak kulkas yang paling dingin (bukan di pintu) dan tutup rapat setelah dibuka.",
+  "ide": [
+   {
+    "nama": "Roti mentega gula",
+    "waktu": "5 mnt"
+   },
+   {
+    "nama": "Nasi goreng mentega",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Kue kering",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 174
+ },
+ {
+  "id": "telur",
+  "label": "Telur",
+  "en": "egg eggs",
+  "kat": "Lainnya",
+  "grup": "Telur",
+  "awet": 21,
+  "satuan": "butir",
+  "tempat": "rak",
+  "tint": "#F4E5D9",
+  "tips": "Simpan telur di rak kulkas dalam wadahnya, ujung lancip menghadap ke bawah. Jangan dicuci sebelum disimpan.",
+  "ide": [
+   {
+    "nama": "Telur dadar",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "Telur balado",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Telur rebus",
+    "waktu": "12 mnt"
+   }
+  ],
+  "urutan": 175
+ },
+ {
+  "id": "roti",
+  "label": "Roti tawar",
+  "en": "bread",
+  "kat": "Lainnya",
+  "grup": "Roti",
+  "awet": 5,
+  "satuan": "bungkus",
+  "tempat": "rak",
+  "tint": "#F4E9DE",
+  "tips": "Roti tawar awet 2–3 hari di suhu ruang. Di kulkas lebih lama tapi cepat keras; bekukan di freezer kalau mau lebih awet.",
+  "ide": [
+   {
+    "nama": "Roti bakar",
+    "waktu": "10 mnt"
+   },
+   {
+    "nama": "French toast",
+    "waktu": "15 mnt"
+   },
+   {
+    "nama": "Puding roti",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 176
+ },
+ {
+  "id": "daging",
+  "label": "Daging sapi",
+  "en": "beef meat",
+  "kat": "Lainnya",
+  "grup": "Daging & unggas",
+  "awet": 3,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#F9E4E6",
+  "tips": "Simpan daging mentah di rak paling bawah dalam wadah tertutup supaya cairannya tidak menetes ke bahan lain. Bekukan kalau belum dimasak dalam 1–2 hari.",
+  "ide": [
+   {
+    "nama": "Semur daging",
+    "waktu": "1 jam"
+   },
+   {
+    "nama": "Rendang",
+    "waktu": "3 jam"
+   },
+   {
+    "nama": "Sop daging",
+    "waktu": "1 jam"
+   }
+  ],
+  "urutan": 177
+ },
+ {
+  "id": "ayam",
+  "label": "Daging ayam",
+  "en": "chicken",
+  "kat": "Lainnya",
+  "grup": "Daging & unggas",
+  "awet": 2,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#F4E5E1",
+  "tips": "Simpan daging mentah di rak paling bawah dalam wadah tertutup supaya cairannya tidak menetes ke bahan lain. Bekukan kalau belum dimasak dalam 1–2 hari.",
+  "ide": [
+   {
+    "nama": "Ayam goreng",
+    "waktu": "40 mnt"
+   },
+   {
+    "nama": "Sop ayam",
+    "waktu": "45 mnt"
+   },
+   {
+    "nama": "Ayam kecap",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 178
+ },
+ {
+  "id": "ikan",
+  "label": "Ikan",
+  "en": "fish",
+  "kat": "Lainnya",
+  "grup": "Ikan & seafood",
+  "awet": 2,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#F1FCFE",
+  "tips": "Ikan & seafood paling cepat basi. Bersihkan, simpan di wadah tertutup di rak paling dingin, dan masak dalam 1–2 hari atau bekukan.",
+  "ide": [
+   {
+    "nama": "Ikan goreng",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Pepes ikan",
+    "waktu": "45 mnt"
+   },
+   {
+    "nama": "Ikan bakar",
+    "waktu": "40 mnt"
+   }
+  ],
+  "urutan": 179
+ },
+ {
+  "id": "udang",
+  "label": "Udang",
+  "en": "shrimp prawn",
+  "kat": "Lainnya",
+  "grup": "Ikan & seafood",
+  "awet": 2,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#FADAD7",
+  "tips": "Ikan & seafood paling cepat basi. Bersihkan, simpan di wadah tertutup di rak paling dingin, dan masak dalam 1–2 hari atau bekukan.",
+  "ide": [
+   {
+    "nama": "Udang saus padang",
+    "waktu": "25 mnt"
+   },
+   {
+    "nama": "Udang goreng tepung",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Tumis udang",
+    "waktu": "15 mnt"
+   }
+  ],
+  "urutan": 180
+ },
+ {
+  "id": "cumi",
+  "label": "Cumi",
+  "en": "squid",
+  "kat": "Lainnya",
+  "grup": "Ikan & seafood",
+  "awet": 2,
+  "satuan": "gram",
+  "tempat": "rak",
+  "tint": "#FBEFF8",
+  "tips": "Ikan & seafood paling cepat basi. Bersihkan, simpan di wadah tertutup di rak paling dingin, dan masak dalam 1–2 hari atau bekukan.",
+  "ide": [
+   {
+    "nama": "Cumi goreng tepung",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Cumi saus tiram",
+    "waktu": "20 mnt"
+   },
+   {
+    "nama": "Cumi hitam",
+    "waktu": "30 mnt"
+   }
+  ],
+  "urutan": 181
+ }
+]
