@@ -17,6 +17,7 @@ import 'dart:io';
 void main() {
   _gradle();
   _manifest();
+  _proguard();
   _ikon();
   _web();
   stdout.writeln('\nSelesai! Lanjut: flutter pub get, lalu flutter run');
@@ -96,6 +97,67 @@ void _manifest() {
   s = s.replaceFirst(RegExp(r'android:label="[^"]*"'), 'android:label="Kulkasku"');
   f.writeAsStringSync(s);
   _info('AndroidManifest.xml: izin & receiver notifikasi');
+}
+
+/// Versi rilis (APK) dikecilkan otomatis oleh R8. Proses itu bisa ikut membuang
+/// kode plugin (mis. shared_preferences) sehingga muncul NoSuchMethodError.
+/// Jadi: pengecilan kode dimatikan + aturan "jangan dibuang" untuk plugin.
+void _proguard() {
+  final kts = File('android/app/build.gradle.kts');
+  final groovy = File('android/app/build.gradle');
+  if (kts.existsSync()) {
+    var s = kts.readAsStringSync();
+    if (!s.contains('kulkasku-tanpa-r8')) {
+      s += """
+
+// kulkasku-tanpa-r8: jangan kecilkan kode di versi rilis (plugin tetap utuh)
+android {
+    buildTypes {
+        getByName("release") {
+            isMinifyEnabled = false
+            isShrinkResources = false
+        }
+    }
+}
+""";
+      kts.writeAsStringSync(s);
+    }
+  } else if (groovy.existsSync()) {
+    var s = groovy.readAsStringSync();
+    if (!s.contains('kulkasku-tanpa-r8')) {
+      s += """
+
+// kulkasku-tanpa-r8: jangan kecilkan kode di versi rilis (plugin tetap utuh)
+android {
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources false
+        }
+    }
+}
+""";
+      groovy.writeAsStringSync(s);
+    }
+  }
+  final rules = File('android/app/proguard-rules.pro');
+  if (rules.parent.existsSync()) {
+    var r = rules.existsSync() ? rules.readAsStringSync() : '';
+    if (!r.contains('kulkasku')) {
+      r += """
+# kulkasku: jangan buang kode plugin
+-keep class io.flutter.plugins.** { *; }
+-keep class io.flutter.plugin.** { *; }
+-keep class com.dexterous.** { *; }
+-keep class com.linusu.** { *; }
+-keep class xyz.luan.audioplayers.** { *; }
+-keep class androidx.datastore.** { *; }
+-dontwarn io.flutter.embedding.**
+""";
+      rules.writeAsStringSync(r);
+    }
+  }
+  _info('Android: pengecilan kode rilis dimatikan (mencegah NoSuchMethodError)');
 }
 
 void _salin(String dari, String ke) {
