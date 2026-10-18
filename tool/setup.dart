@@ -167,5 +167,9 @@ void _web() {
         .replaceFirst(RegExp(r'"description":\s*"[^"]*"'), '"description": "Pengingat sayur & buah di kulkas sebelum layu."');
     man.writeAsStringSync(s);
   }
+  // Halaman Kebijakan Privasi & Syarat Penggunaan (dipakai juga di layar login Google)
+  _salin('tool/web/privasi.html', 'web/privasi.html');
+  _salin('tool/web/syarat.html', 'web/syarat.html');
+  _salin('tool/web/kembali.html', 'web/kembali.html');
   _info('web/index.html & manifest.json: judul dan warna Kulkasku');
 }

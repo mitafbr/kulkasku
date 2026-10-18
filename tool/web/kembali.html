@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kembali ke Kulkasku</title>
+<style>
+body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:#F3EFE7;color:#1F2A1B;font:16px/1.6 system-ui,sans-serif;text-align:center}
+main{max-width:380px;padding:32px 22px}
+h1{color:#2F7D3A;font-family:Georgia,serif;font-style:italic;font-size:38px;margin:0 0 6px}
+a.tombol{display:block;margin:26px 0 12px;padding:16px 20px;border-radius:22px;background:#2F7D3A;color:#fff;font-weight:800;font-size:18px;text-decoration:none;box-shadow:0 5px 0 #1E5A27}
+small{color:#7A7F70}
+</style></head>
+<body><main>
+<h1>Kulkasku.</h1>
+<p id="pesan">Berhasil masuk dengan Google ✅<br>Ketuk tombol di bawah untuk kembali ke aplikasi.</p>
+<a class="tombol" id="tombol" href="#">Kembali ke Kulkasku</a>
+<small>Halaman ini hanya meneruskan login ke aplikasi Kulkasku di HP kamu.</small>
+</main>
+<script>
+  // Token dari Supabase ada di bagian "#..." alamat ini. Diteruskan ke aplikasi
+  // lewat kulkasku://login-callback?... (dibaca oleh ApiClient.sesiDariCallback).
+  var isi = (location.hash || '').replace(/^#/, '') || (location.search || '').replace(/^\?/, '');
+  var tujuan = 'kulkasku://login-callback' + (isi ? '?' + isi : '');
+  var t = document.getElementById('tombol');
+  t.href = tujuan;
+  if (!isi) {
+    document.getElementById('pesan').innerHTML = 'Login belum selesai. Tutup halaman ini lalu coba lagi dari aplikasi.';
+  } else {
+    setTimeout(function () { location.href = tujuan; }, 300);
+  }
+</script>
+</body></html>

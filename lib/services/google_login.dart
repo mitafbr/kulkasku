@@ -17,7 +17,10 @@ class GoogleLogin {
   /// karena Flutter web langsung mengganti bagian "#..." di alamat (tempat token Google).
   static Uri? _urlAwal;
   static void catatUrlAwal() => _urlAwal = Uri.base;
-  static const redirectApk = '$skema://login-callback';
+  /// APK: Supabase mengirim token ke halaman jembatan ini (https), lalu halaman itu
+  /// membuka aplikasi lewat kulkasku://login-callback. Browser HP sering menolak
+  /// langsung membuka aplikasi dari pengalihan otomatis, jadi lewat halaman ini lebih andal.
+  static const redirectApk = 'https://mitafbr.github.io/kulkasku/kembali.html';
 
   static void _cekSiap() {
     if (!AppConfig.pakaiSupabase) {
