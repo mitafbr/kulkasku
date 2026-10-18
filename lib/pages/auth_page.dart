@@ -184,7 +184,7 @@ class _AuthPageState extends State<AuthPage> with TickerProviderStateMixin {
     } on ApiException catch (e) {
       _gagal(e.pesan);
     } catch (e) {
-      _gagal('Tidak bisa terhubung. Cek internet kamu.');
+      _gagal(_pesanError(e, 'Tidak bisa terhubung. Cek internet kamu.'));
     }
   }
 
@@ -205,9 +205,16 @@ class _AuthPageState extends State<AuthPage> with TickerProviderStateMixin {
       }
     } on ApiException catch (e) {
       _gagal(e.pesan);
-    } catch (_) {
-      _gagal('Tidak bisa masuk dengan Google. Coba lagi.');
+    } catch (e) {
+      _gagal(_pesanError(e, 'Tidak bisa masuk dengan Google. Coba lagi.'));
     }
+  }
+
+  /// Pesan ramah + sedikit detail teknis, supaya penyebab error bisa dilacak.
+  String _pesanError(Object e, String umum) {
+    var detail = e.toString().replaceAll('\n', ' ');
+    if (detail.length > 140) detail = '${detail.substring(0, 140)}…';
+    return '$umum\n($detail)';
   }
 
   void _gagal(String pesan) {
